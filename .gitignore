@@ -1,0 +1,8 @@
+# User-obtained reference material and generated search artifacts.
+knowledge/
+
+# Runtime and editor noise.
+*.log
+.DS_Store
+Thumbs.db
+.vscode/

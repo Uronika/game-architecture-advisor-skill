@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Architecture Advisor"
+  short_description: "Evidence-led game architecture decisions"
+  default_prompt: "Use $game-architecture-advisor to evaluate this game system design decision."
